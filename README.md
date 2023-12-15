@@ -1,3 +1,3 @@
 # git_test
 Test GitHub repo for Odin Project
-Hello Odin!
+Hello Odin! Modified today!
